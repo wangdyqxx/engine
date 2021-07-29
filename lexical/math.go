@@ -8,8 +8,8 @@ package lexical
 import (
 	"errors"
 	"fmt"
+	"github.com/wangdyqxx/engine/common"
 	"strings"
-	"engine/common"
 )
 
 const (
